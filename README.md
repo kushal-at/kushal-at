@@ -52,7 +52,7 @@ mindset    : Build. Break. Understand. Iterate. Ship.
 <div align="center">
 
 ### 💬 Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,cs,js,ts&perline=7" />
 
 ### 🌐 Web & Frameworks
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs&perline=5" />
